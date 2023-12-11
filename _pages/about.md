@@ -6,7 +6,7 @@ subtitle: <a href='https://vinuni.edu.vn/'>Vin University</a>. Hanoi, Vietnam.
 
 profile:
   align: right
-  image: jason.jpg
+  image: jason.png
   image_circular: true # crops the image to make it circular
   more_info: 
 
