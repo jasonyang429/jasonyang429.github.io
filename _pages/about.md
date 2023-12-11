@@ -22,10 +22,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm Yang Sze Jue (Jason), currently a Research Assistant under the supervision of <a href='https://khoadoan.me'>Prof. Khoa D. Doan</a> from VinUniversity, Hanoi, Vietnam. Prior to that, I was supervised by <a href='https://cs-chan.com'>Prof. Chan Chee Seng</a> from Universiti Malaya, Kuala Lumpur, Malaysia.
+I'm Yang Sze Jue (Jason), currently a Research Assistant under the supervision of [Prof. Khoa D. Doan](https://khoadoan.me) from VinUniversity, Hanoi, Vietnam. Prior to that, I was advised by [Prof. Chan Chee Seng](https://cs-chan.com) from Universiti Malaya, Kuala Lumpur, Malaysia.
 
 I am interested in the following topics:
-<ul>
-  <li>Backdoor attacks and defenses</li>
-  <li>Computer Vision</li>
-</ul>
+- Backdoor attacks and defenses
+- Computer Vision
