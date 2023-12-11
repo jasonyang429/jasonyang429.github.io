@@ -25,5 +25,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I'm Yang Sze Jue (Jason), currently a Research Assistant under the supervision of [Prof. Khoa D. Doan](https://khoadoan.me) from VinUniversity, Hanoi, Vietnam. Prior to that, I was advised by [Prof. Chan Chee Seng](https://cs-chan.com) from Universiti Malaya, Kuala Lumpur, Malaysia.
 
 I am interested in the following topics:
-- Backdoor attacks and defenses
-- Computer Vision
+- *Backdoor attacks and defenses*
+  - I was fascinated by the movie - "The Matrix", where the main character acts as an ultimate hacker to save the world.Therefore, I am interested in investigating the security vulnerabilities of deep learning models, and its potential mitigations. 
+- *Watermarking*
+  - I am interested in Intellectual Property Right (IPR) of deep learning models, and its potential loopholes in verification methods.
+
+
